@@ -1,4 +1,4 @@
-# Bike Purchace Data Analysis and Visualisation
+# Bike Sales Data Analysis and Visualisation
 
 ## Introduction
 The aim of the sales data analysis is to uncover invaluable information that can help us decide whether to adjust prices or increase or decrease supply of products on the basis of various factors.
